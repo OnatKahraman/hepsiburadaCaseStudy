@@ -1,0 +1,24 @@
+# Search alanına tıkla
+* "desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b" li elemente tıkla
+
+# Search alanına <key> yaz
+* "desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b" li elemente <key> degerini yaz
+
+# Search butonuna bas
+* "SearchBoxOld-cHxjyU99nxdIaAbGyX7F" li elemente tıkla
+
+# <text> mesajının çıktığı kontrol edilir
+* "//span[text()=\"Teşekkür Ederiz.\"]" li element <text> text değerini içeriyor mu
+
+# iphone sec
+* "div h3" li listeden bir ürün sec
+
+# Değerlendirmeye git
+* "#comments-container > a" elementine git ve tıkla
+
+# <number> indexli ilk ürünün yorumuna git ve evete bas
+* ".thumbsUp" li listeden <number> numaralı ürünü seç
+
+# Favoriye Tıkla
+* "customerAccount-Like-2wPzH" li elemente tıkla
+* "customerAccount-Like-2wPzH" li elemente tıkla
